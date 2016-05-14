@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recipe title="someRecipe">
+   <ingredientList>
+      <ingredient>
+         <quantity>3.0</quantity>
+         <unit/>
+         <item>cups sugar</item>
+      </ingredient>
+      <ingredient>
+         <quantity>2.0</quantity>
+         <unit/>
+         <item>cups all purpose flour</item>
+      </ingredient>
+      <ingredient>
+         <quantity>2.0</quantity>
+         <unit/>
+         <item>eggs</item>
+      </ingredient>
+   </ingredientList>
+   <servings>4</servings>
+   <directions>Heat oven to 350F.  Mix ingredients, place in muffin tins, and bake for 20 min.</directions>
+</recipe>

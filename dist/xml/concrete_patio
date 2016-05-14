@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recipe title="someRecipe">
+   <ingredientList>
+      <ingredient>
+         <quantity>1.0</quantity>
+         <unit/>
+         <item>bag concrete mix</item>
+      </ingredient>
+      <ingredient>
+         <quantity>5.0</quantity>
+         <unit/>
+         <item>gallons water</item>
+      </ingredient>
+   </ingredientList>
+   <servings>1</servings>
+   <directions>Mix well in wheelbarrow.
+Pour in pre-constructed form.</directions>
+</recipe>
