@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recipe title="someRecipe">
+   <ingredientList>
+      <ingredient>
+         <quantity>30.0</quantity>
+         <unit/>
+         <item>dollars cash</item>
+      </ingredient>
+   </ingredientList>
+   <servings>3</servings>
+   <directions>go to Bob's Burgers.  
+Order the burger of the day.
+Be sure to comment on how funny the name is.
+Ignore Gene's gross noises.</directions>
+</recipe>

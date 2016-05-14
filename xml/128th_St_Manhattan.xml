@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recipe title="someRecipe">
+   <ingredientList>
+      <ingredient>
+         <quantity>2.0</quantity>
+         <unit/>
+         <item>tsp bitters</item>
+      </ingredient>
+      <ingredient>
+         <quantity>5.0</quantity>
+         <unit/>
+         <item>ounces bourbon</item>
+      </ingredient>
+      <ingredient>
+         <quantity>2.0</quantity>
+         <unit/>
+         <item>oz sweet vermouth</item>
+      </ingredient>
+      <ingredient>
+         <quantity>2.0</quantity>
+         <unit/>
+         <item>red cherry</item>
+      </ingredient>
+   </ingredientList>
+   <servings>4</servings>
+   <directions>Mix well with ice in red Solo cup.</directions>
+</recipe>

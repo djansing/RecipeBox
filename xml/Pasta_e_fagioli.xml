@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recipe title="someRecipe">
+   <ingredientList>
+      <ingredient>
+         <quantity>2.0</quantity>
+         <unit/>
+         <item>slices bacon</item>
+      </ingredient>
+      <ingredient>
+         <quantity>1.0</quantity>
+         <unit/>
+         <item>cup frozen chopped mixed vegetables</item>
+      </ingredient>
+      <ingredient>
+         <quantity>1.0</quantity>
+         <unit/>
+         <item>can Hunt's Garlic &amp; Herb Pasta Sauce</item>
+      </ingredient>
+      <ingredient>
+         <quantity>2.0</quantity>
+         <unit/>
+         <item>cups water</item>
+      </ingredient>
+      <ingredient>
+         <quantity>1.0</quantity>
+         <unit/>
+         <item>can red kidney beans</item>
+      </ingredient>
+      <ingredient>
+         <quantity>0.5</quantity>
+         <unit/>
+         <item>cup dry large elbow macaroni, uncooked</item>
+      </ingredient>
+      <ingredient>
+         <quantity>4.0</quantity>
+         <unit/>
+         <item>tbsp grated Parmesan cheese</item>
+      </ingredient>
+   </ingredientList>
+   <servings>6</servings>
+   <directions>Cook bacon in saucepan 5 minutes or until crisp
+Remove bacon, leaving drippings in pan.
+Add vegetables in pan, cook and stir 2 minutes or until tender.
+Add pasta sauce, water, beans, and macaroni.
+Bring to a boil, reduce heat and simmer 10 minutes or until macaroni is tender.
+Stir crumbled bacon into soup.  Top each serving with cheese.</directions>
+</recipe>
