@@ -19,6 +19,14 @@ public class Ingredient extends RecipeBoxUI{
         this.item = "";
     }
     
+        // copy an ingredient
+    public Ingredient(Ingredient i)
+    {
+        this.quantity = i.getQuantity();
+        this.unit = i.getUnit();
+        this.item = i.getItem();
+    }
+    
     public Ingredient(double q, String u, String i)
     {
         this.quantity = q;
